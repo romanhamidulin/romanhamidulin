@@ -9,7 +9,7 @@
 - Знание реляционных СУБД, PostgreSQL, MS SQL
 - Многопоточное программирование
 - Разработка микросервисного по на С#
-      1. разработка frontend части сервисов: html, css, javascript, angularjs (сборка с помощью Grunt)
+1. разработка frontend части сервисов: html, css, javascript, angularjs (сборка с помощью Grunt)
       2. разработка backend части сервисов включающая в себя:
           * связка с frontend с использованием фрейворка Nancy framework+owin hosting(self-hosting)
           * С# (nuget модули:topshelf, nancy, owin и т.д.)
