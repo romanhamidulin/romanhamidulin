@@ -9,9 +9,9 @@
 - Знание реляционных СУБД, PostgreSQL, MS SQL
 - Многопоточное программирование
 - Разработка микросервисного по на С#:
-1. разработка frontend части сервисов: html, css, javascript, angularjs (сборка с помощью Grunt)
-2. разработка backend части сервисов включающая в себя:
-⋅⋅1. связка с frontend с использованием фрейворка Nancy framework+owin hosting(self-hosting)
+    1. разработка frontend части сервисов: html, css, javascript, angularjs (сборка с помощью Grunt)
+    2. разработка backend части сервисов включающая в себя:
+       - связка с frontend с использованием фрейворка Nancy framework+owin hosting(self-hosting)
 ⋅⋅2. С# (nuget модули:topshelf, nancy, owin и т.д.)
 ⋅⋅*работа с графовой базой данных Neo4j           
 ⋅⋅*разработка/доработка/поддрежка драйверов для узлов учёта газа(ИРВИС-РС4, ТС220, ЕК270, СПГ7xx и т.д) c протоколами Modbus RTU/TCP и т.д.
