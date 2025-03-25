@@ -35,7 +35,7 @@
 ---
 
 ##  Портфолио
-- [Система телеметрии]([https://www.bashgaz.ru/service/rusoft/])
+- [Система телеметрии](https://www.bashgaz.ru/service/rusoft/)
 ---
 
 ## Образование
